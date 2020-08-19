@@ -1,14 +1,7 @@
 # UW-FinTech
-## My name is Phil Abraham
 
-My background is primarily in Finance. I recieved my bachelors and masters in Finance from *Pacific Lutheran University*
+##Hello My name is Phil Abraham
 
----
-
-My career goals are to find a job that allows me to utilize both my financial acumen and computer coding, primarily in the field of finance.
-
----
-
-I chose FinTech as my career path because I enjoy the challenges and complex nature of finance and I understand the need and usefulness of computer coding and technology as the way of the future. I want to integrate the two in my career and work to help shape the FinTech landscape in the future.
+This is a composition of all the work that I have done during my time at the *University of Washington's* FinTech Bootcamp. I hope this sample of work not only highlights my ability to integrate highly complex coding skills but also provides you a understanding for the expansive capabilities that I have mastered.
 
 ---
