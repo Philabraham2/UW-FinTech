@@ -30,7 +30,7 @@ Overall, Robinhood's impressive ability disrupt the Investment Industry by provi
 2.	https://craft.co/robinhood
 3.	https://www.businessinsider.com/robinhood-app-vlad-tenev-founder-free-stock-trading-valuation-2017-7
 4.	https://blog.robinhood.com/
-5.	5.	https://robinhood.com/us/en/support/articles/our-mission/#:~:text=Robinhood's%20mission%20is%20to%20democratize,for%20newcomers%20and%20experts%20alike.
+5.	https://robinhood.com/us/en/support/articles/our-mission/#:~:text=Robinhood's%20mission%20is%20to%20democratize,for%20newcomers%20and%20experts%20alike.
 6.	https://www.nasdaq.com/articles/robinhood-millennial-obsession-2018-08-23
 7.	https://stackshare.io/robinhood/robinhood
 8.	https://robinhood.engineering/increasing-efficiency-confidence-with-project-apollo-cea1ebe0f282
