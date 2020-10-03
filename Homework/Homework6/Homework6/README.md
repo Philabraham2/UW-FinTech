@@ -24,6 +24,6 @@ This shows an interactive line graph of each neighborhood and their respective c
 
 This contains a single bar graph highlighting the most expensive neighborhoods and their respective sales price per sqare foot. 
 
-###Comparative Sales Analysis Tab
+### Comparative Sales Analysis Tab
 
 Two interactive charts that can be manipulated to highlight a specific line or change the position of how the data is viewed to help the end user understand the data in a way that best suits them. There are drag and highlight functions that help the user to manipulate the graphics and help them to better understand the data. 
