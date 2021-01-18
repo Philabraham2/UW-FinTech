@@ -37,7 +37,7 @@ Proof of Authority is a reputation based way of approving blocks in a blockchain
         - determine a chain ID ~ I used 325
         - Type 2 to manage existing genesis
         - Type 2 to export genesis configurations and then continue with the default. This will generate image 1 in the screenshot tab
-        https://github.com/Philabraham2/UW-FinTech/blob/master/Homework/Homework18/screenshots/Image_1.png
+        
     
 ## Starting the BlockChain 
     1. Initialize nodes
