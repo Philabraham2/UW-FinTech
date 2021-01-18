@@ -64,6 +64,9 @@ For the nodes to connect, a new custom network must be created in MyCrpto.
 
     6. Send a transaction from the node1 account to the node2 account. Use the public address of node 2 to send transaction. The wallet can be seen in image 2 and the transaction in image 3. 
     
+## Conclusion
+
+What this step by step process does is from scratch create a testnet in which you can create, mine and transact your own tokens. Here we can manipulate and try to find faults and new ways to implement blockchain into our banking system. This virtual environment allows us to afford making mistakes and finding holes in our system. Thus allowing the bank to find the best way to serve clients and create a system that helps further use blockchain technologies.
 
 
 
